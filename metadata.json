@@ -1,0 +1,6 @@
+{
+  "name": "連連看大冒險 - 經典連線益智遊戲",
+  "description": "經典網頁版連連看（Onet Puzzle）益智遊戲，支援多種難度、計時挑戰、連擊加分、智能提示與最高分排行榜記錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
